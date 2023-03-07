@@ -4,7 +4,13 @@ version: 0.0.1
 homepage: https://pixpdv.com.br/
 
 environment:
+
+  # Versão do Dart 
+  # suportada de 2.19.0 até 3.0.0
   sdk: '>=2.19.0 <3.0.0'
+
+  # Versão do Flutter 
+  # suportada de 1.17.0 até 2.0.0
   flutter: ">=1.17.0"
 
 dependencies:
