@@ -71,6 +71,10 @@ Neste exemplo utilizaremos o PixPDV SDK para gerar um QRCode dinâmico com o tem
 
 ## Print do Aplicativo de Exemplo
 
+![image](https://user-images.githubusercontent.com/12506432/223465094-17502491-670d-4378-8ec6-ae86d7ac9529.png)
+![image](https://user-images.githubusercontent.com/12506432/223465158-6ecb0f3c-f162-44e7-8f10-117da2e59131.png)
+
+
 ## Créditos
 
 Este Projeto foi desenvolvido por [Claudney Sarti Sessa](https://github.com/claudneysessa) atendendo as especificações da API de integração do [PIXPDV](https://pixpdv.com.br), empresa especializada em soluções para o mercado de pagamentos.
