@@ -107,7 +107,8 @@ Para utilizar o PixPDV SDK, você deve seguir os seguintes passos:
 
 ## Exemplos
 
-Abaixo você pode ver alguns exemplos de como utilizar o SDK.<br>
+Abaixo você pode ver alguns exemplos de como utilizar o SDK.
+
 Para mais informações, acesse a documentação da API em [PixPDV API](https://pixpdv.com.br/api/index.html#section/Introducao).
 
 ### Status Token
